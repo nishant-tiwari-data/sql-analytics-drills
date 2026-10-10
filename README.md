@@ -1,9 +1,8 @@
-# SQL for Data Engineering
+# SQL Analytics Drills & Interview Practice
 
-Solutions, execution benchmarks, and analytical queries focused on PostgreSQL.
+A repository tracking deliberate daily SQL problem-solving, metric calculations, and performance tuning using PostgreSQL.
 
-### 📌 Core Topics
-* Window Functions (`DENSE_RANK`, `ROW_NUMBER`, `LAG`, `LEAD`)
-* Complex Common Table Expressions (CTEs) & Subquery Refactoring
-* Incremental Loading & Deduplication Logic
-* DataLemur Interview Question Walkthroughs
+### Practice Modules
+* **Window Functions:** Ranking, rolling metrics, and month-over-month growth calculations.
+* **CTEs & Joins:** Complex relational joins, multi-step subquery refactoring, and data deduplication.
+* **Interview Challenges:** Real-world company problem sets from DataLemur and case studies.
